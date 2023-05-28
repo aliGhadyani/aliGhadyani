@@ -63,7 +63,7 @@ Please contact me for collaboration requests or helps and questions on public re
 
 - ![Telegram](./img/telegram.png)  [Telegram](https://telegram.me/ali_ghadyani)
 - ![Twitter](./img/twitter.png)  [Twitter](https://twitter.com/Alii_am_dige)
-- ![Instagram](./img/instagram.png)  [Instagram](https://telegram.me/ali_ghadyani)
+- ![Instagram](./img/instagram.png)  [Instagram](https://www.instagram.com/aliighadyani)
 - ![Linkedin](./img/linkedin.png)  [Linkedin](https://www.linkedin.com/in/ali-ghadyani-641748180)
 - ![Facebook](./img/facebook.png)  [Facebook](https://telegram.me/ali_ghadyani)
 - ![E-Mail](./img/message.png)  [E-Mail](mailto:Ali.Ghadyani.1379@gmail.com)
